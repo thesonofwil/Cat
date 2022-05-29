@@ -1,4 +1,6 @@
-#Images used
+[Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page) from the Foundations Module of [The Odin Project](https://www.theodinproject.com/).
+
+## Images used
 1. [Ragdoll cat](https://pixabay.com/photos/cat-remote-access-ragdoll-pet-blue-1726023/) - Kadisha
 2. [Scottish fold](https://unsplash.com/photos/citSl-M-gxs) - Ion Şipilov
 3. [Maine coon](https://unsplash.com/photos/RWElb9j7nlc) - Sergei Wing
